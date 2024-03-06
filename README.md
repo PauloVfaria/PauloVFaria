@@ -27,7 +27,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/paulov427)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloVFaria_icons=true&theme=gotham)
+![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloVfaria&icons=true&theme=gotham)
+
 
 <!-- Portfolio 
 ## Portfolio:
