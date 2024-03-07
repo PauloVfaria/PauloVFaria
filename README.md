@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Paulo! A passionate software engineer student from Brazil.
 
-  - 🌱 I’m currently studying IA and automation in Python  <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying IA and automation in Python  
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
@@ -57,10 +57,7 @@
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   </div>
   
   <!-- Skills: Libraries -->
